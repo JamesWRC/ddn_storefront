@@ -1,6 +1,5 @@
-name = "template"
+name = "ddn_storefront"
 type = "javascript"
-account_id = ""
 workers_dev = true
-route = ""
-zone_id = ""
+route = "store.ddn.dev"
+routes = ["ddn.dev/store", "www.ddn.dev/store"]
