@@ -1,5 +1,6 @@
 name = "ddn_storefront"
 type = "javascript"
 workers_dev = true
-route = "store.ddn.dev"
+account_id = "77a2ec0ca677d2dbbcd71851c58b072a"
+zone_id = "5293b42677b5b5b56d9bb6604f9bdbc5"
 routes = ["ddn.dev/store", "www.ddn.dev/store"]
